@@ -23,7 +23,7 @@ gem 'uglifier', '2.7.0'
 gem 'jquery-rails', '4.0.3'
 gem 'jquery-ui-rails', '5.0.3'
 gem 'coffee-rails', '4.1.0'
-gem 'nokogiri', '1.6.7.1'
+gem 'nokogiri', '1.9.1'
 gem 'gemoji', '2.1.0'
 gem 'sprockets_uglifier_with_source_maps', '1.1.0'
 
