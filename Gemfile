@@ -34,7 +34,7 @@ end
 group :development do
   gem 'quiet_assets', '1.1.0'
   gem 'pry-remote', '0.1.8'
-  gem 'better_errors', '2.1.1'
+  gem 'better_errors', '2.8.0'
   gem 'binding_of_caller', '0.7.2'
   gem 'active_record_query_trace', '1.4'
   gem 'thin', '1.6.3'
